@@ -12,7 +12,7 @@ Link Repositorio de Drive -> https://drive.google.com/drive/folders/1k2Y1uVm_c2j
 
 ## Link al video de ejecución de nuestra solución:
 
-Link Video de Ejecución de la Prueba de Concepto -> 
+Link Video de Ejecución de la Prueba de Concepto -> https://www.youtube.com/watch?v=YUy2diA3xOk
 
 ## Instalación local para la ejecución del código:
 
