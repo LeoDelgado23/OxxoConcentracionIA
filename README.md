@@ -20,7 +20,9 @@ Link Video de Ejecución de la Prueba de Concepto ->
 
 > De igual manera, se asume que se tiene descargado Python en su versión 3.10.7 y la librería pip.
 
-Será necesario realizar la instalación de las siguientes librerías a través de una linea de comandos, las cuales nos ayudarán a ejecutar de manera local/temporal (debido a las limitaciones de nuestro tenant en Oracle Cloud Infrastructure) :
+Realizar la instalación y activación de Rabbit MQ -> https://www.rabbitmq.com/install-windows.html#downloads
+
+De igual manera, será necesario realizar la instalación de las siguientes librerías a través de una linea de comandos, las cuales nos ayudarán a ejecutar de manera local/temporal (debido a las limitaciones de nuestro tenant en Oracle Cloud Infrastructure) :
 
 > python -m pip install Django
 
@@ -54,3 +56,9 @@ Ejecutar el siguiente comando en la primera :
 Ejecutar el siguiente comando en la segunda, para habilitar la comunicación entre servidores de manera paralela : 
 
 > celery -A proj beat -l info
+
+Portal de la aplicación "Administración" -> https://g0c4542b6212cd4-dboxxomlapp.adb.us-phoenix-1.oraclecloudapps.com/ords/r/oxxo_testing/administraci%C3%B3n
+
+Portal de la aplicación "Oxxo RackWise" -> https://g0c4542b6212cd4-dboxxomlapp.adb.us-phoenix-1.oraclecloudapps.com/ords/r/oxxo_testing/oxxo-rackwise
+
+*** IMPORTANTE: No se tendrá acceso a los portales a menos que se establezca la autorización en Oracle Cloud Infrastructure.
