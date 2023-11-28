@@ -13,14 +13,21 @@ Sánchez Pérez, Raúl Andrés - A01367635
 ## Instalación local para la ejecución del código:
 
 > (Ambiente de desarrollo utilizado fue **VSCode.**)
+
 > De igual manera, se asume que se tiene descargado Python en su versión 3.10.7 y la librería pip.
 
 Será necesario realizar la instalación de las siguientes librerías a través de una linea de comandos, las cuales nos ayudarán a ejecutar de manera local/temporal (debido a las limitaciones de nuestro tenant en Oracle Cloud Infrastructure) :
+
 > python -m pip install Django
+
 > pip install celery
+
 > pip install eventlet
+
 > pip install oracledb
+
 > pip install ultralytics==8.0.196
+
 > pip install Pillow
 
 Al descargar el código, estarán organizados de la siguiente manera:
