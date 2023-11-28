@@ -8,7 +8,11 @@ Sánchez Pérez, Raúl Andrés - A01367635
 
 ## Carpeta de Drive que contiene los pesos del modelo final de YOLO:
 
+Link Repositorio de Drive -> https://drive.google.com/drive/folders/1k2Y1uVm_c2jd1B6xilwNXmmXYgmidZ8b
+
 ## Link al video de ejecución de nuestra solución:
+
+Link Video de Ejecución de la Prueba de Concepto -> 
 
 ## Instalación local para la ejecución del código:
 
